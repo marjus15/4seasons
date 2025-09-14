@@ -1,0 +1,21 @@
+{
+  "name": "lineage2-file-server",
+  "version": "1.0.0",
+  "description": "Node.js file server for Lineage 2 update files",
+  "main": "windows-file-server.js",
+  "scripts": {
+    "start": "node windows-file-server.js",
+    "dev": "node windows-file-server.js"
+  },
+  "keywords": [
+    "lineage2",
+    "file-server",
+    "updater",
+    "http-server"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
