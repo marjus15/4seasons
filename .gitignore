@@ -39,3 +39,14 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+
+# test files
+test-dynamic-files.js
+test-setup.js
+test-api-endpoints.js
+test-windows-server.js
+test-windows-server-config.js
+test-windows-server-instructions.js
+test-windows-server-setup.md
+test-windows-server-setup.bat
